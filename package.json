@@ -1,5 +1,5 @@
 {
-  "name": "chess-mcp",
+  "name": "@iflow-mcp/chess-mcp",
   "type": "module",
   "version": "0.0.7",
   "description": "Chess MCP server with position evaluation, move validation, and masters database",
