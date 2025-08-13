@@ -1,7 +1,7 @@
 {
   "name": "@iflow-mcp/chess-mcp",
   "type": "module",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Chess MCP server with position evaluation, move validation, and masters database",
   "main": "build/index.js",
   "bin": {
